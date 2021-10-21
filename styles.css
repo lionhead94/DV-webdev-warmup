@@ -1,0 +1,46 @@
+* {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+#main {
+  margin: auto;
+  width: 80%;
+}
+
+h1 {
+  color: blue;
+  font-family: 'Roboto Slab', serif;
+}
+
+#main h1 {
+  text-align: center;
+}
+
+#title {
+  color: dodgerblue;
+}
+
+h2 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: medium;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+h3 {
+  margin-top: 30px;
+  color: rgb(19, 29, 19);
+}
+
+h3 em {
+  color: slategray;
+}
+
+p {
+  color: green;
+}
+
+ul {
+  color: purple;
+}
