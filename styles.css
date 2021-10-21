@@ -47,14 +47,20 @@ ul {
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  height: 30em;
+  width: 25em;
 }
 
-.card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+.card-img {
+  display: block;
+  padding: 2em;
+  text-align: center;
+  margin: auto;
+  width: 80%;
 }
 
 .card-info {
-  padding: 2px 16px;
+  padding: 2em;
 }
 
 #card-title {
